@@ -1,6 +1,6 @@
 # Full Technical Report
 
-[Download the full technical report (PDF)](https://raw.githubusercontent.com/ahasano1/chemical-process-yield-optimization/main/report/chemical_process_yield_optimization_report.pdf)
+[Download the full technical report (PDF)](https://github.com/ahasano1/chemical-process-yield-optimization/releases/download/report-v1.0/chemical_process_yield_optimization_report.pdf)
 
 This report documents the complete sequential design-of-experiments process, including:
 
