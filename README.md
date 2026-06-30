@@ -104,6 +104,10 @@ All response data are embedded in the scripts, so the analysis can be reproduced
 
 R, experimental design, factorial analysis, response-surface methodology, regression diagnostics, and data visualization.
 
+## Full Technical Report
+
+[Download the complete applied-statistics report (PDF)](report/chemical_process_yield_optimization_report.pdf?raw=1)
+
 ## Note
 
 This is an educational case study based on an instructor-provided chemical-process model. It is not a real industrial deployment or production recommendation.
