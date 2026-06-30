@@ -106,7 +106,7 @@ R, experimental design, factorial analysis, response-surface methodology, regres
 
 ## Full Technical Report
 
-[Download the complete applied-statistics report (PDF)](report/chemical_process_yield_optimization_report.pdf?raw=1)
+[Download the complete applied-statistics report (PDF)](https://github.com/ahasano1/chemical-process-yield-optimization/releases/download/report-v1.0/chemical_process_yield_optimization_report.pdf)
 
 ## Note
 
