@@ -1,8 +1,8 @@
-# Final Report
+# Full Technical Report
 
-This folder contains the full applied statistics report documenting the experimental design, analysis, response-surface model, and validation results for the chemical-process yield optimization study.
+[Download the full technical report (PDF)](chemical_process_yield_optimization_report.pdf?raw=1)
 
-The report includes:
+This report documents the complete sequential design-of-experiments process, including:
 
 * Initial eight-factor screening design
 * Follow-up factorial experiments
