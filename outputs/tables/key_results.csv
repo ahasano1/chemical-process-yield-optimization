@@ -1,0 +1,8 @@
+"metric","result"
+"Experimental-run budget","75 runs"
+"Experimental runs used","58 runs"
+"Selected confirmation setting","B = 5, E = 7.5, G = 5"
+"Quadratic-model predicted yield","91.54%"
+"Confirmation-run mean yield","90.88%"
+"95% confidence interval for mean yield","89.94% to 91.82%"
+"95% prediction interval for one future run","87.51% to 94.25%"
